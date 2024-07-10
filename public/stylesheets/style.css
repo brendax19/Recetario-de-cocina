@@ -1,0 +1,26 @@
+body {
+  background-image: url(/images/73055f9b476645ea837bfc4ed5808689.jpg);
+  background-size: cover; 
+  background-position: center;
+  color: #7d5a99;
+  font-size: 20px;
+  
+  
+}
+.btn-custom {
+  background-color: #7d5a99;
+  border-color: #7d5a99;
+}
+
+body p {
+  color: black;
+  justify-content: center;
+}
+
+footer{
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #7d5a99;
+  justify-content: center;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,31 @@
+body {
+  background-color: #f3e6ff; 
+}
+.container {
+  max-width: 500px; 
+  background-color: #f8f0ff; 
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+label {
+  color: #7d5a99; 
+}
+input[type="text"], input[type="file"] {
+  background-color: #e0c3fc; 
+  border: 1px solid #d3b3f8;
+  border-radius: 5px;
+  padding: 5px;
+  color: #4b3061; 
+}
+button, .btn-secondary {
+  background-color: #e0c3fc;
+  border: 1px solid #d3b3f8;
+  color: white;
+}
+h1, h2 {
+  color: #7d5a99;
+}
+.btn-primary {
+  margin-top: 10px;
+}
